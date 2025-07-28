@@ -1,0 +1,93 @@
+{
+    "predictions": [
+        {
+            "formatted_address": "ISKCON Temple Bangalore, Hare Krishna Hill, Chord Rd, 1st R Block, Rajajinagar, Bengaluru, Karnataka, 560010, India",
+            "geometry": {
+                "location": {
+                    "lat": 13.00989,
+                    "lng": 77.55101
+                }
+            },
+            "place_id": "ola-platform:34651f1ed3c827cc55cead503e00eeed",
+            "name": "ISKCON Temple Bangalore",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "Lalbagh Botanical Garden, Mavalli, Bengaluru, Karnataka, 560004, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.95071,
+                    "lng": 77.58478
+                }
+            },
+            "place_id": "ola-platform:e8989e60598ecf070525759d7bf546f1",
+            "name": "Lalbagh Botanical Garden",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "Wonderla Amusement Park, Bengaluru, 28th KM, Mysore Rd, Bengaluru, Karnataka, 562109, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.83497,
+                    "lng": 77.40094
+                }
+            },
+            "place_id": "ola-platform:cd37ef518a16c2319a121709550eff46",
+            "name": "Wonderla Amusement Park, Bengaluru",
+            "types": [
+                "amusement_park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "Mysore Palace, Sayyaji Rao Rd, Agrahara, Chamrajpura, Mysuru, Karnataka, 570024, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.30514,
+                    "lng": 76.65518
+                }
+            },
+            "place_id": "ola-platform:4c5b3a79437c180841f48fe5fb598d3e",
+            "name": "Mysore Palace",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ]
+        },
+        {
+            "formatted_address": "Sri Karyasiddhi Anjaneya Temple, 3rd C Main Rd, 1st Phase Girinagar, Kadavanthra, Banashankari, Bengaluru, Karnataka, 560085, India",
+            "geometry": {
+                "location": {
+                    "lat": 12.93871,
+                    "lng": 77.54314
+                }
+            },
+            "place_id": "ola-platform:84827e0d2b44dfff67ade0478a59e1fa",
+            "name": "Sri Karyasiddhi Anjaneya Temple",
+            "types": [
+                "hindu_temple",
+                "tourist_attraction",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ]
+        }
+    ],
+    "info_messages": [],
+    "error_message": "",
+    "status": "ok"
+}

@@ -1,0 +1,336 @@
+{
+    "places_of_interest": [
+        {
+            "formatted_address": "Accoland, Guwahati-Accoland-Rani Rd, Near BSF Headquarters, Pat Gaon, Assam, 781015, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.0804,
+                    "lng": 91.6111
+                }
+            },
+            "place_id": "ola-platform:5000052076751",
+            "name": "Accoland",
+            "types": [
+                "amusement_park",
+                "tourist_attraction"
+            ]
+        },
+        {
+            "formatted_address": "Srimanta Sankaradeva Kalakshetra, Panjabari Rd, Batahguli, Guwahati, Assam, 781037, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.1307,
+                    "lng": 91.8223
+                }
+            },
+            "place_id": "ola-platform:5000037895238",
+            "name": "Srimanta Sankaradeva Kalakshetra",
+            "types": [
+                "tourist_attraction",
+                "natural_feature"
+            ]
+        },
+        {
+            "formatted_address": "Science Museum, Khanapara Guwahati, Pir Ajan Fakir Rd, Resham Nagar, Khanapara, Guwahati, Assam, 781022, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.1205,
+                    "lng": 91.816
+                }
+            },
+            "place_id": "ola-platform:5000042455486",
+            "name": "Science Museum, Khanapara Guwahati",
+            "types": [
+                "tourist_attraction",
+                "natural_feature"
+            ]
+        },
+        {
+            "formatted_address": "Dighalipukhuri Park, Dighalipukhuri, Guwahati, Assam, 781001, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.1859,
+                    "lng": 91.7513
+                }
+            },
+            "place_id": "ola-platform:5000059793000",
+            "name": "Dighalipukhuri Park",
+            "types": [
+                "tourist_attraction",
+                "natural_feature"
+            ]
+        },
+        {
+            "formatted_address": "Lokhra Chariali, Lokhra Rd, Lokhra, Guwahati, Assam, 781029, India",
+            "geometry": {
+                "location": {
+                    "lat": 26.1116,
+                    "lng": 91.7495
+                }
+            },
+            "place_id": "ola-platform:5000063865686",
+            "name": "Lokhra Chariali",
+            "types": [
+                "tourist_attraction"
+            ]
+        }
+    ],
+    "restaurants_nearby": [
+        {
+            "latitude": 26.0804,
+            "longitude": 91.6111,
+            "restaurants": [
+                {
+                    "description": "Chang Resort, Unnamed Road, Garbhanga F.V, Assam, 781017, India",
+                    "matched_substrings": [],
+                    "place_id": "ola-platform:5000060173951",
+                    "reference": "5000060173951",
+                    "structured_formatting": {
+                        "main_text": "Chang Resort",
+                        "main_text_matched_substrings": [],
+                        "secondary_text": "Unnamed Road, Garbhanga F.V, Assam, 781017, India",
+                        "secondary_text_matched_substrings": []
+                    },
+                    "terms": [
+                        {
+                            "offset": 0,
+                            "value": "Chang Resort"
+                        },
+                        {
+                            "offset": 14,
+                            "value": "Unnamed Road"
+                        },
+                        {
+                            "offset": 28,
+                            "value": "Garbhanga F.V"
+                        },
+                        {
+                            "offset": 43,
+                            "value": "Assam"
+                        },
+                        {
+                            "offset": 50,
+                            "value": "781017"
+                        },
+                        {
+                            "offset": 58,
+                            "value": "India"
+                        }
+                    ],
+                    "types": [
+                        "restaurant",
+                        "meal_takeaway",
+                        "meal_delivery"
+                    ],
+                    "layer": [
+                        "venue"
+                    ],
+                    "distance_meters": 513
+                },
+                {
+                    "description": "Kolphool Local Dhaba, Guwahati-Accoland-Rani Rd, Ganakpara, Pat Gaon, Guwahati, Assam, 781015, India",
+                    "matched_substrings": [],
+                    "place_id": "ola-platform:5000060550742",
+                    "reference": "5000060550742",
+                    "structured_formatting": {
+                        "main_text": "Kolphool Local Dhaba",
+                        "main_text_matched_substrings": [],
+                        "secondary_text": "Guwahati-Accoland-Rani Rd, Ganakpara, Pat Gaon, Guwahati, Assam, 781015, India",
+                        "secondary_text_matched_substrings": []
+                    },
+                    "terms": [
+                        {
+                            "offset": 0,
+                            "value": "Kolphool Local Dhaba"
+                        },
+                        {
+                            "offset": 22,
+                            "value": "Guwahati-Accoland-Rani Rd"
+                        },
+                        {
+                            "offset": 49,
+                            "value": "Ganakpara"
+                        },
+                        {
+                            "offset": 60,
+                            "value": "Pat Gaon"
+                        },
+                        {
+                            "offset": 22,
+                            "value": "Guwahati"
+                        },
+                        {
+                            "offset": 80,
+                            "value": "Assam"
+                        },
+                        {
+                            "offset": 87,
+                            "value": "781015"
+                        },
+                        {
+                            "offset": 95,
+                            "value": "India"
+                        }
+                    ],
+                    "types": [
+                        "restaurant",
+                        "meal_takeaway",
+                        "meal_delivery"
+                    ],
+                    "layer": [
+                        "venue"
+                    ],
+                    "distance_meters": 613
+                },
+                {
+                    "description": "Radio Centre Road, Garbhanga F.V, Assam, 781128, India",
+                    "matched_substrings": [],
+                    "place_id": "ola-platform:5000059806933",
+                    "reference": "5000059806933",
+                    "structured_formatting": {
+                        "main_text": "Radio Centre Road",
+                        "main_text_matched_substrings": [],
+                        "secondary_text": "Garbhanga F.V, Assam, 781128, India",
+                        "secondary_text_matched_substrings": []
+                    },
+                    "terms": [
+                        {
+                            "offset": 0,
+                            "value": "Radio Centre Road"
+                        },
+                        {
+                            "offset": 19,
+                            "value": "Garbhanga F.V"
+                        },
+                        {
+                            "offset": 34,
+                            "value": "Assam"
+                        },
+                        {
+                            "offset": 41,
+                            "value": "781128"
+                        },
+                        {
+                            "offset": 49,
+                            "value": "India"
+                        }
+                    ],
+                    "types": [
+                        "cafe",
+                        "restaurant"
+                    ],
+                    "layer": [
+                        "venue"
+                    ],
+                    "distance_meters": 936
+                },
+                {
+                    "description": "Pepsigate, Garbhanga F.V, Guwahati, Assam, 781017, India",
+                    "matched_substrings": [],
+                    "place_id": "ola-platform:5000058593306",
+                    "reference": "5000058593306",
+                    "structured_formatting": {
+                        "main_text": "Pepsigate",
+                        "main_text_matched_substrings": [],
+                        "secondary_text": "Garbhanga F.V, Guwahati, Assam, 781017, India",
+                        "secondary_text_matched_substrings": []
+                    },
+                    "terms": [
+                        {
+                            "offset": 0,
+                            "value": "Pepsigate"
+                        },
+                        {
+                            "offset": 11,
+                            "value": "Garbhanga F.V"
+                        },
+                        {
+                            "offset": 26,
+                            "value": "Guwahati"
+                        },
+                        {
+                            "offset": 36,
+                            "value": "Assam"
+                        },
+                        {
+                            "offset": 43,
+                            "value": "781017"
+                        },
+                        {
+                            "offset": 51,
+                            "value": "India"
+                        }
+                    ],
+                    "types": [
+                        "restaurant",
+                        "meal_takeaway",
+                        "meal_delivery"
+                    ],
+                    "layer": [
+                        "venue"
+                    ],
+                    "distance_meters": 1129
+                },
+                {
+                    "description": "Khatirdari | Restaurant, Sweets & Bakery, Rani Gate, Near Decathlon, Azara, Guwahati, Assam, 781017, India",
+                    "matched_substrings": [],
+                    "place_id": "ola-platform:5000041852567",
+                    "reference": "5000041852567",
+                    "structured_formatting": {
+                        "main_text": "Khatirdari | Restaurant, Sweets & Bakery",
+                        "main_text_matched_substrings": [],
+                        "secondary_text": "Rani Gate, Near Decathlon, Azara, Guwahati, Assam, 781017, India",
+                        "secondary_text_matched_substrings": []
+                    },
+                    "terms": [
+                        {
+                            "offset": 0,
+                            "value": "Khatirdari | Restaurant"
+                        },
+                        {
+                            "offset": 25,
+                            "value": "Sweets & Bakery"
+                        },
+                        {
+                            "offset": 42,
+                            "value": "Rani Gate"
+                        },
+                        {
+                            "offset": 53,
+                            "value": "Near Decathlon"
+                        },
+                        {
+                            "offset": 69,
+                            "value": "Azara"
+                        },
+                        {
+                            "offset": 76,
+                            "value": "Guwahati"
+                        },
+                        {
+                            "offset": 86,
+                            "value": "Assam"
+                        },
+                        {
+                            "offset": 93,
+                            "value": "781017"
+                        },
+                        {
+                            "offset": 101,
+                            "value": "India"
+                        }
+                    ],
+                    "types": [
+                        "restaurant",
+                        "meal_takeaway",
+                        "meal_delivery"
+                    ],
+                    "layer": [
+                        "venue"
+                    ],
+                    "distance_meters": 2330
+                }
+            ]
+        }
+    ]
+}
